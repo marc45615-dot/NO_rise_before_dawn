@@ -1,6 +1,5 @@
 ---
 title: "NO Rise Before Dawn"
-subtitle: "Project title goes here"
 toc: true
 ---
 
