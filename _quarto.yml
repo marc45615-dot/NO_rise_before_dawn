@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "NO_Rise _Before_Dawn"
+  title: "NO Rise Before Dawn"
+  search: false
   navbar:
+    collapse: false
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Team
 
 format:
   html:
@@ -19,4 +22,3 @@ format:
     toc: true
 
 editor: visual
-

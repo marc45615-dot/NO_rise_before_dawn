@@ -1,11 +1,35 @@
 ---
-title: "NO_Rise _Before_Dawn"
+title: "NO Rise Before Dawn"
+subtitle: "Project title goes here"
+toc: true
 ---
 
-This is a Quarto website.
+## About the project
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+*Our project is coming soon.*
 
-```{r}
-1 + 1
-```
+<!-- 2–3 sentences: What is the project about and why is it interesting? -->
+
+## Research question
+
+<!-- What exactly do you want to find out? -->
+
+## Data
+
+<!-- Where does the data come from? Period covered, source, link. -->
+
+## Method
+
+<!-- How do you analyze the data? e.g. DCF, ratios, charts, regression -->
+
+## Results
+
+<!-- Charts, tables and the dashboard go here -->
+
+## Conclusion
+
+<!-- What did you learn? Short and clear. -->
+
+------------------------------------------------------------------------
+
+Want to know who is behind this? Meet the [team](about.qmd).
