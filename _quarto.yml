@@ -3,21 +3,13 @@ project:
   output-dir: docs
 
 website:
-<<<<<<< HEAD
   title: "Meet the team: NO RISE BEFORE DAWN"
-=======
-  title: "NO_Rise _Before_Dawn"
->>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1
   navbar:
     left:
       - href: index.qmd
         text: Home
-<<<<<<< HEAD
       - href: about.qmd
         text: Team
-=======
-      - about.qmd
->>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1
 
 format:
   html:
@@ -25,13 +17,6 @@ format:
       - cosmo
       - brand
     css: styles.css
-<<<<<<< HEAD
     toc: false
 
 editor: visual
-=======
-    toc: true
-
-editor: visual
-
->>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1
