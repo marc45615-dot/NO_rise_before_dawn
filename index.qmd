@@ -1,8 +1,0 @@
----
-title: "NO RISE BEFORE DAWN"
-toc: false
----
-
-WIP - but you can meet the team, and our philosophy!
-
-See the [team](about.qmd).
