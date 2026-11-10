@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "NO_Rise _Before_Dawn"
@@ -18,4 +19,5 @@ format:
     toc: true
 
 editor: visual
+
 
