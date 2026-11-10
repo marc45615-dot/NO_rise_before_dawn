@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "NO RISE BEFORE DAWN"
 toc: false
 ---
@@ -6,3 +7,15 @@ toc: false
 WIP - but you can meet the team, and our philosophy!
 
 See the [team](about.qmd).
+=======
+title: "NO_Rise _Before_Dawn"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+>>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1

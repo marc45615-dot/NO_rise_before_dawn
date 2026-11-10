@@ -1,4 +1,9 @@
 /.quarto/
 **/*.quarto_ipynb
+<<<<<<< HEAD
 /_site/
 .Rproj.user/
+=======
+.Rproj.user/
+_site/
+>>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1

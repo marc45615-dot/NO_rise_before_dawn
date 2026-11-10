@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "NO RISE BEFORE DAWN"
 subtitle: "Meet the team"
 toc: false
@@ -30,3 +31,13 @@ The German
 :::
 
 :::
+=======
+title: "About"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+>>>>>>> 0fd06b69d57d95f09f578255da623623eb67d0e1
